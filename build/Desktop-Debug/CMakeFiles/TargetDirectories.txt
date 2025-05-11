@@ -1,0 +1,9 @@
+/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/CMakeFiles/2D_raycaster.dir
+/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/CMakeFiles/install.dir
+/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/CMakeFiles/2D_raycaster_autogen_timestamp_deps.dir
+/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/CMakeFiles/2D_raycaster_autogen.dir

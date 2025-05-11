@@ -1,0 +1,64 @@
+# ninja log v5
+22	1329	1744314087345042234	CMakeFiles/2D_raycaster.dir/Canvas.cpp.o	d06a2aa3feacffe1
+21	1390	1744314087407043179	CMakeFiles/2D_raycaster.dir/mainwindow.cpp.o	afd60371ed5d2c2f
+222	1817	1744313941299296852	CMakeFiles/2D_raycaster.dir/main.cpp.o	bece1ef145fee7eb
+222	712	1744313940196271771	CMakeFiles/2D_raycaster.dir/Ray.cpp.o	eb0ad80f617ed42
+222	642	1744313940126270178	CMakeFiles/2D_raycaster.dir/Polygon.cpp.o	ea19159611db38ad
+2	21	1744314086043022354	/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/2D_raycaster_autogen/mocs_compilation.cpp	bafe820685c4b4b5
+222	1619	1744313941099292313	CMakeFiles/2D_raycaster.dir/Controller.cpp.o	1535e285e289fdf5
+2	21	1744314086043022354	/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/2D_raycaster_autogen/timestamp	bafe820685c4b4b5
+2	21	1744314086043022354	2D_raycaster_autogen/mocs_compilation.cpp	bafe820685c4b4b5
+1390	1606	1744314087625046501	2D_raycaster	fb3d9f75e94815d2
+222	2159	1744313941642304637	CMakeFiles/2D_raycaster.dir/2D_raycaster_autogen/mocs_compilation.cpp.o	708a5bec2a4cb1ae
+2	21	1744314086043022354	2D_raycaster_autogen/timestamp	bafe820685c4b4b5
+2	21	1744314130034653825	2D_raycaster_autogen/timestamp	bafe820685c4b4b5
+2	21	1744314130034653825	2D_raycaster_autogen/mocs_compilation.cpp	bafe820685c4b4b5
+2	21	1744314130034653825	/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/2D_raycaster_autogen/timestamp	bafe820685c4b4b5
+2	21	1744314130034653825	/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/2D_raycaster_autogen/mocs_compilation.cpp	bafe820685c4b4b5
+22	1330	1744314131337671293	CMakeFiles/2D_raycaster.dir/Canvas.cpp.o	d06a2aa3feacffe1
+21	1386	1744314131393672042	CMakeFiles/2D_raycaster.dir/mainwindow.cpp.o	afd60371ed5d2c2f
+1386	1620	1744314131630675212	2D_raycaster	fb3d9f75e94815d2
+2	21	1744314170756168090	2D_raycaster_autogen/timestamp	bafe820685c4b4b5
+2	21	1744314170756168090	2D_raycaster_autogen/mocs_compilation.cpp	bafe820685c4b4b5
+2	21	1744314170756168090	/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/2D_raycaster_autogen/timestamp	bafe820685c4b4b5
+2	21	1744314170756168090	/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/2D_raycaster_autogen/mocs_compilation.cpp	bafe820685c4b4b5
+21	1328	1744314172058183482	CMakeFiles/2D_raycaster.dir/Canvas.cpp.o	d06a2aa3feacffe1
+21	1386	1744314172116184165	CMakeFiles/2D_raycaster.dir/mainwindow.cpp.o	afd60371ed5d2c2f
+1386	1606	1744314172339186792	2D_raycaster	fb3d9f75e94815d2
+2	30	1744369038734036704	2D_raycaster_autogen/timestamp	bafe820685c4b4b5
+2	30	1744369038734036704	2D_raycaster_autogen/mocs_compilation.cpp	bafe820685c4b4b5
+2	30	1744369038734036704	/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/2D_raycaster_autogen/timestamp	bafe820685c4b4b5
+2	30	1744369038734036704	/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/2D_raycaster_autogen/mocs_compilation.cpp	bafe820685c4b4b5
+31	1391	1744369040090040750	CMakeFiles/2D_raycaster.dir/Canvas.cpp.o	d06a2aa3feacffe1
+31	1417	1744369040117040830	CMakeFiles/2D_raycaster.dir/mainwindow.cpp.o	afd60371ed5d2c2f
+1418	1657	1744369040358041548	2D_raycaster	fb3d9f75e94815d2
+3	20	1744369124998271181	2D_raycaster_autogen/timestamp	bafe820685c4b4b5
+3	20	1744369124998271181	2D_raycaster_autogen/mocs_compilation.cpp	bafe820685c4b4b5
+3	20	1744369124998271181	/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/2D_raycaster_autogen/timestamp	bafe820685c4b4b5
+3	20	1744369124998271181	/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/2D_raycaster_autogen/mocs_compilation.cpp	bafe820685c4b4b5
+21	1375	1744369126347274497	CMakeFiles/2D_raycaster.dir/Canvas.cpp.o	d06a2aa3feacffe1
+21	1450	1744369126424274686	CMakeFiles/2D_raycaster.dir/mainwindow.cpp.o	afd60371ed5d2c2f
+1450	1680	1744369126655275254	2D_raycaster	fb3d9f75e94815d2
+2	20	1744369195061430620	2D_raycaster_autogen/timestamp	bafe820685c4b4b5
+2	20	1744369195061430620	2D_raycaster_autogen/mocs_compilation.cpp	bafe820685c4b4b5
+2	20	1744369195061430620	/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/2D_raycaster_autogen/timestamp	bafe820685c4b4b5
+2	20	1744369195061430620	/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/2D_raycaster_autogen/mocs_compilation.cpp	bafe820685c4b4b5
+21	1370	1744369196404433432	CMakeFiles/2D_raycaster.dir/Canvas.cpp.o	d06a2aa3feacffe1
+21	1434	1744369196469433568	CMakeFiles/2D_raycaster.dir/mainwindow.cpp.o	afd60371ed5d2c2f
+1434	1670	1744369196708434067	2D_raycaster	fb3d9f75e94815d2
+2	20	1744369207104455522	2D_raycaster_autogen/timestamp	bafe820685c4b4b5
+2	20	1744369207104455522	2D_raycaster_autogen/mocs_compilation.cpp	bafe820685c4b4b5
+2	20	1744369207104455522	/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/2D_raycaster_autogen/timestamp	bafe820685c4b4b5
+2	20	1744369207104455522	/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/2D_raycaster_autogen/mocs_compilation.cpp	bafe820685c4b4b5
+21	1379	1744369208458458277	CMakeFiles/2D_raycaster.dir/Canvas.cpp.o	d06a2aa3feacffe1
+20	1444	1744369208523458409	CMakeFiles/2D_raycaster.dir/mainwindow.cpp.o	afd60371ed5d2c2f
+1444	1675	1744369208756458883	2D_raycaster	fb3d9f75e94815d2
+4	236	1744372243857732796	2D_raycaster_autogen/timestamp	bafe820685c4b4b5
+4	236	1744372243857732796	2D_raycaster_autogen/mocs_compilation.cpp	bafe820685c4b4b5
+4	236	1744372243857732796	/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/2D_raycaster_autogen/timestamp	bafe820685c4b4b5
+4	236	1744372243857732796	/home/daniladikan/Qt Creator Yandex/2D_raycaster/build/Desktop-Debug/2D_raycaster_autogen/mocs_compilation.cpp	bafe820685c4b4b5
+237	1635	1744372245255741763	CMakeFiles/2D_raycaster.dir/Canvas.cpp.o	d06a2aa3feacffe1
+236	1674	1744372245295742019	CMakeFiles/2D_raycaster.dir/main.cpp.o	bece1ef145fee7eb
+236	1698	1744372245319742173	CMakeFiles/2D_raycaster.dir/2D_raycaster_autogen/mocs_compilation.cpp.o	708a5bec2a4cb1ae
+236	1702	1744372245323742199	CMakeFiles/2D_raycaster.dir/mainwindow.cpp.o	afd60371ed5d2c2f
+1702	1937	1744372245560743717	2D_raycaster	fb3d9f75e94815d2

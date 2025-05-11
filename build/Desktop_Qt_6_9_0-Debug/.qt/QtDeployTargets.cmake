@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_2D_raycaster_FILE /home/dikan-danila/2D_Raycaster/build/Desktop_Qt_6_9_0-Debug/2D_raycaster)
+set(__QT_DEPLOY_TARGET_2D_raycaster_TYPE EXECUTABLE)
